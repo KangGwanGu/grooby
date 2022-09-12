@@ -11,6 +11,7 @@ class RbmsVo {
 
     /**
      * 테스트 커밋 소스
+     * 테스트 폴 소스!
      * @param plcd
      * @param grpNo
      * @param plicd
