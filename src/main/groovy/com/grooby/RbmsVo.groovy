@@ -9,6 +9,13 @@ class RbmsVo {
     String plicd
     String basePlicdYn
 
+    /**
+     * 테스트 커밋 소스
+     * @param plcd
+     * @param grpNo
+     * @param plicd
+     * @param basePlicdYn
+     */
     RbmsVo(String plcd, String grpNo, String plicd, String basePlicdYn) {
         this.plcd = plcd
         this.grpNo = grpNo
